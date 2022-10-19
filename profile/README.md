@@ -1,6 +1,6 @@
 ## Bem Vindx ao Projeto do Alumni Maratona de Computação! :desktop_computer:
 
-<img align="middle" alt="Logo Portal de Maratonas" height="240"  style="border-radius:50px;" src="https://maratona.sbc.org.br/imagens/logonovo.jpg">
+<img align="MIDDLE" alt="Logo Portal de Maratonas" height=" style="border-radius:50px;" src="https://maratona.sbc.org.br/imagens/logonovo.jpg">
 
 <!--
 
