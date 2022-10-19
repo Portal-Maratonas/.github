@@ -1,6 +1,6 @@
 ## Bem Vindx ao Portal Maratonas! 👋
 
-<img align="middle" alt="Logo Portal de Maratonas" height="12style="border-radius:50px;" src="https://maratona.sbc.org.br/imagens/logonovo.jpg">
+<img align="middle" alt="Logo Portal de Maratonas" height="120"  e="border-radius:50px;" src="https://maratona.sbc.org.br/imagens/logonovo.jpg">
 
 <!--
 
